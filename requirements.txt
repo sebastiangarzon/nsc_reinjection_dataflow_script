@@ -1,0 +1,2 @@
+redis==3.3.4
+pycrypto==2.6.1
